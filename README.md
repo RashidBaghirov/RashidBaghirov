@@ -1,3 +1,9 @@
+<div style="width:100%">
+<img align="right" alt="Coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</div>
+
+
+
 <h3 align="center">A passionate Full Stack developer from Azerbaijan</h3>
 
 <h3 align="center">Connect with me:</h3>
