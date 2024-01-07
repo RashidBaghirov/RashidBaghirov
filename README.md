@@ -4,11 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-    <style>
-        a{
-          text-decoration: none;
-            }
-    </style>
 <body>
     <div style="width:100%">
         <img align="right" alt="Coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
